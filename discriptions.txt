@@ -1,0 +1,6 @@
+0. Установка node.js з офіційного сайту
+1. node --version
+2. npm --version
+
+https://www.youtube.com/watch?v=v0BVWlBiniY
+04:46
