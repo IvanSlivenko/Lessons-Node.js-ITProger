@@ -2,5 +2,10 @@
 1. node --version
 2. npm --version
 
+3.  npm init
+
 https://www.youtube.com/watch?v=v0BVWlBiniY
 04:46
+
+https://www.youtube.com/watch?v=QRoONrUHrwo
+12:20
